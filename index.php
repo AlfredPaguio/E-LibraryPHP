@@ -38,7 +38,7 @@ if (!isset($_SESSION['login_user'])) {
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css">
 </head>
 
-<body>
+<body class="overflow-x-hidden container-fluid">
     <!-- Sidebar  -->
     <div class="wrapper">
         <nav id="sidebar">
